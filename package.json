@@ -1,0 +1,7 @@
+{
+	"name": "srt-stats",
+	"version": "0.0.1",
+	"dependencies": {
+		"srt-words": "jonnyscholes/srt-words"
+	}
+}
